@@ -1,12 +1,10 @@
-# WQU-32-HFT
-
-This is the work of Group 32 for the WQU capstone project.
+# HFT Profitability - Exploratory Analysis
 
 There are two folders:
  BTC for Bitcoin analysis across multiple exchanges
  SPY for the S&P 500 ETF on the NASDAQ exchange
 
-The process was reconstruction of the order book, followed by simulations.
+The process was reconstruction of the order book from trade data, followed by simulations.
 
 The BTC order book was reconstructed from millisecond-resolution tick data from Kaiko.
 
